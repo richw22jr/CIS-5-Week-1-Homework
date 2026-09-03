@@ -14,6 +14,6 @@ int main() {
   cin >> name;
   cout << "Years coding goal: ";
   cin >> years;
-  cout << name << " — 1/3/5/7 year story goes here (" << years << ")\n";
+  cout << name << " would like to learn enough coding to get an Electrical Engineering degree in ("<< years << ") years\n";
   return 0;
 }
